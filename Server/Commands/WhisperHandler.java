@@ -1,6 +1,6 @@
 package academy.mindswap.Modulo1.ChatService.Server.Commands;
 
-import academy.mindswap.Modulo1.ChatService.Helpers;
+import academy.mindswap.Modulo1.ChatService.Server.Helpers;
 import academy.mindswap.Modulo1.ChatService.Server.Server;
 
 import java.util.Optional;

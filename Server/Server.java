@@ -1,6 +1,5 @@
 package academy.mindswap.Modulo1.ChatService.Server;
 
-import academy.mindswap.Modulo1.ChatService.Helpers;
 import academy.mindswap.Modulo1.ChatService.Server.Commands.Command;
 
 import java.io.*;

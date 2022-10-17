@@ -1,4 +1,4 @@
-package academy.mindswap.Modulo1.ChatService;
+package academy.mindswap.Modulo1.ChatService.Server;
 
 public class Helpers {
     public static boolean compareIfNamesMatch(String name1, String name2) {
